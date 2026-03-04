@@ -1,0 +1,12 @@
+curl https://api.github.com/repos/suhaniii411/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+ {
+  "state": "open",
+  "head": {
+   "repo": {
+    "full_name": "suhaniii411/mcino-Introduction-to-Git-and-GitHub"
+   }
+  }
+ }
+]
