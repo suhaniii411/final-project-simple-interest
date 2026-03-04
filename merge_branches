@@ -1,0 +1,6 @@
+git checkout main
+Already on 'main'
+
+git merge bug-fix-typo
+Updating abc123..def456
+1 file changed, 1 insertion(+), 1 deletion(-)
